@@ -61,6 +61,11 @@
                                 <input id="password-confirm" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password">
                             </div>
                         </div>
+                        <div class="row mb-0">
+                            <div class="col-md-6 offset-md-4">
+                                <input type="radio" name="" id="" class="form-check-input" value="dssds">
+                            </div>
+                        </div>
 
                         <div class="row mb-0">
                             <div class="col-md-6 offset-md-4">
